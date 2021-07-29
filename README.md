@@ -1,4 +1,10 @@
 # Todo-List-in-Golang
+##Download dependencies 
+``` 
+1. chi framwork
+2. MongoDB
+3. Renderer package 
+```
 ## Run Locally
 ```
   go run main.go 
