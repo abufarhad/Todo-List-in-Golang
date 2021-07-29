@@ -2,7 +2,7 @@
 ## Download dependencies 
 ``` 
 1. go get "github.com/go-chi/chi"
-2. go get	"github.com/thedevsaddam/renderer"
+2. go get "github.com/thedevsaddam/renderer"
 3. go get "gopkg.in/mgo.v2"
 4. go get "go.uber.org/zap"
 ```
